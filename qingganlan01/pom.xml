@@ -5,6 +5,7 @@
 	<artifactId>qingganlan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+	
 
 	<!-- 之前pom总是报错，原来是少了这段properties的配置 -->
 	<properties>
